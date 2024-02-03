@@ -1,0 +1,1245 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GUI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\ajax\\accordion.html",
+      "PackagePath": "staticwebassets\\Chain\\ajax\\accordion.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\ajax\\panel.html",
+      "PackagePath": "staticwebassets\\Chain\\ajax\\panel.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\ajax\\remote.html",
+      "PackagePath": "staticwebassets\\Chain\\ajax\\remote.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\ajax\\tabs.html",
+      "PackagePath": "staticwebassets\\Chain\\ajax\\tabs.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\alerts.html",
+      "PackagePath": "staticwebassets\\Chain\\alerts.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\basic-tables.html",
+      "PackagePath": "staticwebassets\\Chain\\basic-tables.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\blank.html",
+      "PackagePath": "staticwebassets\\Chain\\blank.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\blog-single.html",
+      "PackagePath": "staticwebassets\\Chain\\blog-single.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\buttons.html",
+      "PackagePath": "staticwebassets\\Chain\\buttons.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\calendar.html",
+      "PackagePath": "staticwebassets\\Chain\\calendar.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\code-editor.html",
+      "PackagePath": "staticwebassets\\Chain\\code-editor.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\animate.delay.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\animate.delay.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\bootstrap-override.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\bootstrap-override.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\bootstrap-wysihtml5.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\bootstrap-wysihtml5.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\codemirror\\theme\\ambiance.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\codemirror\\theme\\ambiance.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\colorpicker.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\colorpicker.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\dropzone.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\images\\animated-overlay.html",
+      "PackagePath": "staticwebassets\\Chain\\css\\images\\animated-overlay.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\jquery-ui-1.10.3.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\jquery-ui-1.10.3.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\jquery.gritter.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\jquery.gritter.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\jquery.tagsinput.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\jquery.tagsinput.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\morris.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\morris.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\pace.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\pace.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\select2.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\select2.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\style.calendar.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\style.calendar.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\style.datatables.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\style.datatables.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\style.default.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\style.default.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\toggles.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\toggles.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\Chain\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\data-tables.html",
+      "PackagePath": "staticwebassets\\Chain\\data-tables.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\email.html",
+      "PackagePath": "staticwebassets\\Chain\\email.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\extras.html",
+      "PackagePath": "staticwebassets\\Chain\\extras.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\fontawesome-webfont862f.eot",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\fontawesome-webfont862f.eot"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\fontawesome-webfont862f.svg",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\fontawesome-webfont862f.svg"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\fontawesome-webfont862f.ttf",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\fontawesome-webfont862f.ttf"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\fontawesome-webfont862f.woff",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\fontawesome-webfont862f.woff"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\fonts\\weathericons-regular-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Chain\\fonts\\weathericons-regular-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\form-layouts.html",
+      "PackagePath": "staticwebassets\\Chain\\form-layouts.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\form-validation.html",
+      "PackagePath": "staticwebassets\\Chain\\form-validation.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\form-wizards.html",
+      "PackagePath": "staticwebassets\\Chain\\form-wizards.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\general-forms.html",
+      "PackagePath": "staticwebassets\\Chain\\general-forms.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\graphs.html",
+      "PackagePath": "staticwebassets\\Chain\\graphs.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\holder.js\\100x100.html",
+      "PackagePath": "staticwebassets\\Chain\\holder.js\\100x100.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\holder.js\\100x120.html",
+      "PackagePath": "staticwebassets\\Chain\\holder.js\\100x120.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\holder.js\\60x60.html",
+      "PackagePath": "staticwebassets\\Chain\\holder.js\\60x60.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\icons.html",
+      "PackagePath": "staticwebassets\\Chain\\icons.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\calendar-arrow.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\calendar-arrow.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\close-white.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\close-white.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_background.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_background.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_hex.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_hex.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_hsb_b.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_hsb_b.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_hsb_h.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_hsb_h.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_hsb_s.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_hsb_s.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_indic.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_indic.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_overlay.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_overlay.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_rgb_b.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_rgb_b.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_rgb_g.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_rgb_g.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_rgb_r.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_rgb_r.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_select.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_select.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\colorpicker_submit.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\colorpicker_submit.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\colorpicker\\select2.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\colorpicker\\select2.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\datatables\\sort_asc.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\datatables\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\datatables\\sort_desc.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\datatables\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\droparrows.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\droparrows.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\dropdown-arrow.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\dropdown-arrow.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader1.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader1.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader10.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader10.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader11.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader11.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader12.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader12.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader13.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader13.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader14.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader14.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader15.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader15.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader16.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader16.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader17.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader17.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader18.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader18.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader19.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader19.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader2.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader2.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader20.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader20.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader21.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader21.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader22.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader22.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader23.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader23.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader24.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader24.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader25.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader25.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader26.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader26.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader27.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader27.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader28.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader28.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader29.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader29.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader3.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader3.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader30.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader30.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader4.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader4.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader5.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader5.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader6.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader6.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader7.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader7.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader8.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader8.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\loaders\\loader9.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\loaders\\loader9.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\logo-primary.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\logo-primary.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\medi-fav-icon-02.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\medi-fav-icon-02.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\medidiscountslogo.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\medidiscountslogo.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\medidiscountslogo1.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\medidiscountslogo1.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\media-audio.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\media-audio.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\media-doc.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\media-doc.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\media1.jpg",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\media1.jpg"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\media2.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\media2.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\media3.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\media3.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\media4.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\media4.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\media5.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\media5.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\media6.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\media6.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\media7.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\media7.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\profile-big.jpg",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\profile-big.jpg"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\profile.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\profile.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\user1.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\user1.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\user2.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\user2.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\user3.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\user3.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\user4.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\user4.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\photos\\user5.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\photos\\user5.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\dark_rounded\\btnNext.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\dark_rounded\\btnNext.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\dark_rounded\\btnPrevious.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\dark_rounded\\btnPrevious.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\dark_rounded\\contentPattern.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\dark_rounded\\contentPattern.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\dark_rounded\\loader.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\dark_rounded\\loader.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\dark_rounded\\sprite.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\dark_rounded\\sprite.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\dark_square\\btnNext.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\dark_square\\btnNext.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\dark_square\\btnPrevious.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\dark_square\\btnPrevious.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\dark_square\\loader.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\dark_square\\loader.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\dark_square\\sprite.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\dark_square\\sprite.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\default_thumb.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\default_thumb.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\facebook\\btnNext.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\facebook\\btnNext.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\facebook\\btnPrevious.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\facebook\\btnPrevious.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\facebook\\contentPatternBottom.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\facebook\\contentPatternBottom.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\facebook\\contentPatternLeft.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\facebook\\contentPatternLeft.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\facebook\\contentPatternRight.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\facebook\\contentPatternRight.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\facebook\\contentPatternTop.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\facebook\\contentPatternTop.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\facebook\\default_thumbnail.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\facebook\\default_thumbnail.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\facebook\\loader.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\facebook\\loader.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\facebook\\sprite.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\facebook\\sprite.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\light_rounded\\btnNext.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\light_rounded\\btnNext.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\light_rounded\\btnPrevious.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\light_rounded\\btnPrevious.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\light_rounded\\loader.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\light_rounded\\loader.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\light_rounded\\sprite.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\light_rounded\\sprite.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\light_square\\btnNext.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\light_square\\btnNext.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\light_square\\btnPrevious.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\light_square\\btnPrevious.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\light_square\\sprite.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\light_square\\sprite.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\loader.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\loader.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\sprite.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\sprite.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\sprite_next.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\sprite_next.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\sprite_prev.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\sprite_x.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\sprite_x.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\prettyphoto\\sprite_y.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\prettyphoto\\sprite_y.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\select2-spinner.gif",
+      "PackagePath": "staticwebassets\\Chain\\images\\select2-spinner.gif"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\select2.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\select2.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\select2x2.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\select2x2.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\spritemap.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\spritemap.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\spritemap@2x.html",
+      "PackagePath": "staticwebassets\\Chain\\images\\spritemap@2x.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\themeforest.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\themeforest.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\uploadfile.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\uploadfile.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\white-medi-logo-03-04-1.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\white-medi-logo-03-04-1.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\images\\white-medi-logo-03-04.png",
+      "PackagePath": "staticwebassets\\Chain\\images\\white-medi-logo-03-04.png"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\index.html",
+      "PackagePath": "staticwebassets\\Chain\\index.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\invoice.html",
+      "PackagePath": "staticwebassets\\Chain\\invoice.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\bootstrap-wizard.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\bootstrap-wizard.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\bootstrap-wysihtml5.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\bootstrap-wysihtml5.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\charts.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\charts.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\codemirror\\formatting.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\codemirror\\formatting.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\codemirror\\mode\\javascript.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\codemirror\\mode\\javascript.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\codemirror\\mode\\xml.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\codemirror\\mode\\xml.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\colorpicker.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\colorpicker.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\flot\\jquery.flot.categories.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\flot\\jquery.flot.categories.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\flot\\jquery.flot.crosshair.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\flot\\jquery.flot.crosshair.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\flot\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\flot\\jquery.flot.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\flot\\jquery.flot.pie.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\flot\\jquery.flot.pie.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\flot\\jquery.flot.resize.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\flot\\jquery.flot.resize.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\flot\\jquery.flot.spline.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\flot\\jquery.flot.spline.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\flot\\jquery.flot.symbol.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\flot\\jquery.flot.symbol.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\flot\\plugins\\curvedLines.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\flot\\plugins\\curvedLines.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\gmaps.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\holder.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\holder.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery-ui-1.10.3.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery-ui-1.10.3.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.autogrow-textarea.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.autogrow-textarea.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.cookies.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.cookies.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.gritter.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.gritter.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.mousewheel.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.mousewheel.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.tagsinput.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.tagsinput.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\modernizr.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\morris.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\morris.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\pace.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\retina.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\retina.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\toggles.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\toggles.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\js\\wysihtml5-0.3.0.min.js",
+      "PackagePath": "staticwebassets\\Chain\\js\\wysihtml5-0.3.0.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\locked.html",
+      "PackagePath": "staticwebassets\\Chain\\locked.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\maps.html",
+      "PackagePath": "staticwebassets\\Chain\\maps.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\media-manager.html",
+      "PackagePath": "staticwebassets\\Chain\\media-manager.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\messages.html",
+      "PackagePath": "staticwebassets\\Chain\\messages.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\modals.html",
+      "PackagePath": "staticwebassets\\Chain\\modals.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\notfound.html",
+      "PackagePath": "staticwebassets\\Chain\\notfound.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\people-directory.html",
+      "PackagePath": "staticwebassets\\Chain\\people-directory.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\profile.html",
+      "PackagePath": "staticwebassets\\Chain\\profile.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\search-results.html",
+      "PackagePath": "staticwebassets\\Chain\\search-results.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\signin.html",
+      "PackagePath": "staticwebassets\\Chain\\signin.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\signup.html",
+      "PackagePath": "staticwebassets\\Chain\\signup.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\sliders.html",
+      "PackagePath": "staticwebassets\\Chain\\sliders.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\tabs-accordions.html",
+      "PackagePath": "staticwebassets\\Chain\\tabs-accordions.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\typography.html",
+      "PackagePath": "staticwebassets\\Chain\\typography.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\view_message.html",
+      "PackagePath": "staticwebassets\\Chain\\view_message.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\widgets.html",
+      "PackagePath": "staticwebassets\\Chain\\widgets.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\Chain\\wysiwyg.html",
+      "PackagePath": "staticwebassets\\Chain\\wysiwyg.html"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\EwxLectures\\DotNetBatches\\EwxDotNet####\\Lecture 28 (3-2-2024 Areas in MVC - Ecom Usecase)\\my.solution\\GUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GUI.props",
+      "PackagePath": "build\\GUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GUI.props",
+      "PackagePath": "buildMultiTargeting\\GUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GUI.props",
+      "PackagePath": "buildTransitive\\GUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
